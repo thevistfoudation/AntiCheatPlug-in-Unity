@@ -11,7 +11,7 @@ AntiCheatPlug-in
 ## II.Cách sử dụng Plugin và Plugin gồm những gì ?
 - [`types` Obscured types https://www.youtube.com/watch?v=QiznofE8xD4&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=2](#Obscured types)
 - [`Prefs` Obscured Prefs](#Obscured Prefs)
-- [`File and Prefs` Obscured File &&  Obscured Prefs](#Obscured File)
+- [`FileandPrefs` Obscured File &&  Obscured Prefs](#Obscured File)
 - [`SpeedHackDetector` SpeedHackDetector](#SpeedHack)
 - [`WallHackDetector` WallHackDetector](#WallHackDetector)
 - [`InjectionDetector` InjectionDetector](#InjectionDetector)
