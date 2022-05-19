@@ -10,7 +10,7 @@ AntiCheatPlug-in
 + Chọn tab Tool > Code Stage > Anti-Cheat ToolKit > Settings để kiểm tra thông tin về package gồm 
   + Phiên bản Package đang dùng 
   + Các thư viện đang có trong package
-  + 
+  + ![image](https://user-images.githubusercontent.com/47918431/169299750-08d15a75-3760-4ef7-a0cb-2371270f780d.png)
 <a name="How"></a>
 ## II.Cách sử dụng Plugin và Plugin gồm những gì ?
 - [`types` Obscured types](#Obscuredtypes)
