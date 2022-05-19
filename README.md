@@ -26,7 +26,10 @@ AntiCheatPlug-in
 + 1 số Tool Cheat được dùng: Cheat Engine, ArtMoney (PC), Game CIH, Game Guardian (Android).
 + Để hạn chế tình trạng đó thì Package sẽ có bộ thư viện hỗ trợ để ẩn các chỉ số đi 
 + ![image](https://user-images.githubusercontent.com/47918431/169303770-640c80e2-67fc-46be-a7a0-522a039621f1.png)
-+ Sau khi thay đổi kiểu giá trị sang dạng `bscured` Cheater vẫn có thể nhìn thấy những giá trị được hiển thị lên tuy nhiên giá trị gốc đã được bảo vệ và Cheater sẽ ko thể can thiệp và thay đổi thông số trong game.
++ Sau khi thay đổi kiểu giá trị sang dạng `Obscured` Cheater vẫn có thể nhìn thấy những giá trị được hiển thị lên tuy nhiên giá trị gốc đã được bảo vệ và Cheater sẽ ko thể can thiệp và thay đổi thông số trong game.
++ Mặc dù được che giấu đi nhưng trong Game để tăng tính bảo mật sẽ thực hiện thêm 1 số phép tính nhằm thay đổi và che giấu tuyệt đối giá trị trong game
++ ![image](https://user-images.githubusercontent.com/47918431/169311314-b7cd45a2-d69b-4284-808d-8b6c88181e0b.png)
+
 <a name="ObscuredPrefs"></a>
 ### Obscured Prefs
 + https://www.youtube.com/watch?v=Hf0MOct9rDQ&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=4
