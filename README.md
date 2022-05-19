@@ -22,8 +22,11 @@ AntiCheatPlug-in
 <a name="Obscuredtypes"></a>
 ### Obscured types
 + https://www.youtube.com/watch?v=QiznofE8xD4&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=2
-+ Thường đa số các Cheater sẽ dùng tool để xác định các biến trong game như tiền , life point , tài nguyên
-+ 
++ Thường đa số các Cheater sẽ dùng tool để xác định các biến trong game như tiền , life point , tài nguyên bằng cách quét các thông số hiển thị trên game và lấy các giá trị đó ra và thay đổi.
++ 1 số Tool Cheat được dùng: Cheat Engine, ArtMoney (PC), Game CIH, Game Guardian (Android).
++ Để hạn chế tình trạng đó thì Package sẽ có bộ thư viện hỗ trợ để ẩn các chỉ số đi 
++ ![image](https://user-images.githubusercontent.com/47918431/169303770-640c80e2-67fc-46be-a7a0-522a039621f1.png)
++ Sau khi thay đổi kiểu giá trị sang dạng `bscured` Cheater vẫn có thể nhìn thấy những giá trị được hiển thị lên tuy nhiên giá trị gốc đã được bảo vệ và Cheater sẽ ko thể can thiệp và thay đổi thông số trong game.
 <a name="ObscuredPrefs"></a>
 ### Obscured Prefs
 + https://www.youtube.com/watch?v=Hf0MOct9rDQ&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=4
