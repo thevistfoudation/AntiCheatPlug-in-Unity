@@ -17,7 +17,7 @@ AntiCheatPlug-in
 - [`InjectionDetector` InjectionDetector](#InjectionDetector)
 <a name="Obscuredtypes"></a>
 ### Obscured types
-+  https://www.youtube.com/watch?v=QiznofE8xD4&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=2
++https://www.youtube.com/watch?v=QiznofE8xD4&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=2
 
 <a name="ObscuredPrefs"></a>
 ### Obscured Prefs
