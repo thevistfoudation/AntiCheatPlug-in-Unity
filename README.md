@@ -18,7 +18,8 @@ AntiCheatPlug-in
 <a name="Obscuredtypes"></a>
 ### Obscured types
 + https://www.youtube.com/watch?v=QiznofE8xD4&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=2
-
++ Thường đa số các Cheater sẽ dùng tool để xác định các biến trong game như tiền , life point , tài nguyên
++ 
 <a name="ObscuredPrefs"></a>
 ### Obscured Prefs
 + https://www.youtube.com/watch?v=Hf0MOct9rDQ&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=4
