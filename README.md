@@ -6,7 +6,11 @@ AntiCheatPlug-in
 - [III.Tổng kết  ?](#When)
 <a name="What"></a>
 ## I.Cách Setup Plugin ?
-
++ Sau khi clone Plugin về sẽ bắt đầu import vào Project bằng cách kích đúp vào package(nếu đã có sẵn hãy loại bỏ package cũ khỏi project)
++ Chọn tab Tool > Code Stage > Anti-Cheat ToolKit > Settings để kiểm tra thông tin về package gồm 
+  + Phiên bản Package đang dùng 
+  + Các thư viện đang có trong package
+  + 
 <a name="How"></a>
 ## II.Cách sử dụng Plugin và Plugin gồm những gì ?
 - [`types` Obscured types](#Obscuredtypes)
