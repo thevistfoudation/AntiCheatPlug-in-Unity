@@ -18,6 +18,8 @@ AntiCheatPlug-in
 <a name="Obscured types"></a>
 ### Obscured types
 
+
+<a name="Obscured Prefs"></a>
 ### Obscured Prefs
 
 <a name="Obscured File"></a>
