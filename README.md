@@ -33,6 +33,15 @@ AntiCheatPlug-in
 <a name="ObscuredPrefs"></a>
 ### Obscured Prefs
 + https://www.youtube.com/watch?v=Hf0MOct9rDQ&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=4
++ PlayerPrefs là gì
+  + `PlayerPrefs` là 1 lớp lưu trữ các tùy chọn của người chơi giữa các turn, Class này có thể lưu trữ cacsc giá trị như String,Float,Int vào nền tảng của người dùng.
+  + Tùy thuộc nền tảng mà class lưu trữ này sẽ được lưu ở tùy từng file phụ thuộc vào nền tảng
+    + Windows: HKCU\Software\ExampleCompanyName\ExampleProductName 
+    + Linux: ~/.config/unity3d/ExampleCompanyName/ExampleProductName
+    + Windows Store Apps : %userprofile%\AppData\Local\Packages\[ProductPackageId]\LocalState\playerprefs.dat
+    + Android :  /data/data/pkg-name/shared_prefs/pkg-name.v2.playerprefs.xml
+    + macOS: /Library/Preferences/[bundle identifier].plist
+  + 
 <a name="ObscuredFile"></a>
 ### Obscured File &&  Obscured Prefs
 + https://www.youtube.com/watch?v=JCNEl1xQ0WE&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=4
