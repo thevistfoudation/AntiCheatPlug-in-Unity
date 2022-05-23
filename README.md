@@ -43,8 +43,10 @@ AntiCheatPlug-in
     + macOS: /Library/Preferences/[bundle identifier].plist
   + 1 số Hàm được dùng trong PlayerPref
   + ![image](https://user-images.githubusercontent.com/47918431/169842335-4229b47d-0991-40bf-a291-2deffb446746.png)
-  + `Tuy Nhiên UNITY lại ko khuyến người dùng cách này để lưu trữu và sử dụng dữ liệu vì nó đc lưu cục bộ và ko được mã hóa và User có thể dễ dàng can thiệp và sử dụng những dữ liệu`
-
+ + `Tuy Nhiên UNITY lại ko khuyến người dùng cách này để lưu trữu và sử dụng dữ liệu vì nó đc lưu cục bộ và ko được mã hóa và User có thể dễ dàng can thiệp và sử dụng những dữ liệu`
+ + Để thay thế và lưu trữ 1 cách bảo mật hơn:
+  + sử dụng thêm thư viện `using CodeStage.AntiCheat.Storage;`
+  
 <a name="ObscuredFile"></a>
 ### Obscured File &&  Obscured Prefs
 + https://www.youtube.com/watch?v=JCNEl1xQ0WE&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=4
