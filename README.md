@@ -57,6 +57,14 @@ AntiCheatPlug-in
 + Để mở cửa sổ của Anti CheatTool Kit có thể bằng cách:
   + Tools > Code Stage > Anti-Cheat Toolkit > Prefs Editor as Tab
   + ![image](https://user-images.githubusercontent.com/47918431/170267352-5123467e-25bb-4ebe-9a0e-bec6760e9f7c.png)
+  + "+" được đùng để add thêm mới Pref bằng cách chọn loại biến và kích hoạt mã hóa nó sau đó đặt key và giá trị và bấm `OK`
+  + "Refresh" được dùng để quét lại tất các Prefs đã được update vào list
+  + "Key Descending" được dùng để sắp xếp , các giá trị có thể khác: Key Ascending, Type, Obscurance
+  + Search field - được dùng để nhập vào lọc ra các bản ghi có chứa name đc tìm
+  + "X " dùng để xóa bản ghi đó
+  + "S" dùng để lưu những thay đổi của bản ghi đó
+  + "E"/"D" dùng để mã hóa và giải mã của bản build đó
+  + "..." dùng để copy dữ liệu ra bảng
 
 <a name="SpeedHack"></a>
 ### SpeedHackDetector
