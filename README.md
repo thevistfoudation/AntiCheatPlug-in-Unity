@@ -46,7 +46,10 @@ AntiCheatPlug-in
  + `Tuy Nhiên UNITY lại ko khuyến người dùng cách này để lưu trữu và sử dụng dữ liệu vì nó đc lưu cục bộ và ko được mã hóa và User có thể dễ dàng can thiệp và sử dụng những dữ liệu`
  + Để thay thế và lưu trữ 1 cách bảo mật hơn:
   + sử dụng thêm thư viện `using CodeStage.AntiCheat.Storage;`
-  
+  + Thay vì dùng như này
+    ![image](https://user-images.githubusercontent.com/47918431/170180888-a28cee0c-71fb-46ca-a3b1-38a8c9e65815.png)
+  + Có thể dùng như thế này 
+    ![image](https://user-images.githubusercontent.com/47918431/170182337-4d96777f-5109-4830-a5d9-c62fc7858e5c.png)
 <a name="ObscuredFile"></a>
 ### Obscured File &&  Obscured Prefs
 + https://www.youtube.com/watch?v=JCNEl1xQ0WE&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=4
