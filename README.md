@@ -65,7 +65,15 @@ AntiCheatPlug-in
   + "S" dùng để lưu những thay đổi của bản ghi đó
   + "E"/"D" dùng để mã hóa và giải mã của bản build đó
   + "..." dùng để copy dữ liệu ra bảng
-
++ Tool này giúp chúng ta tạo ra các giá trị Prefs được lưu trữ và mã hóa và có thể sử dụng thoải mái mà ko lo cheater tìm đc giá trị
++ Ngoài ra để phát hiện cheat chúng ta còn có thể tích hợp thêm tool scripts này:
+  + Cách 1: GameObject > Create Other > Code Stage > Anti-Cheat Toolkit > Injection Detector
+  + Cách 2: tạo ra game object rồi add thêm component mới Component > Code Stage > Anti-Cheat Toolkit
+  ![image](https://user-images.githubusercontent.com/47918431/170865789-0e94db28-9c6d-4562-bc10-d46a11baae7f.png)
++ `Auto Start`: Cho phép việc dò cheater sau khi Scene Load. Hoặc có thể sử dụng thư viện và gọi hàm bắt đầu dò
++ ![image](https://user-images.githubusercontent.com/47918431/170866028-1a3243e7-e1e3-432e-b665-bfe0cb82d9cc.png)
++ `AutoDispose` : Cho phép tự động loại bỏ chính mình sau khi dò ra được Cheater.
++ `Keep Alive`: Cho phép dò ở Scene Load mới(load sang scene khác hiểu đơn giản là chuyển scene).
 <a name="SpeedHack"></a>
 ### SpeedHackDetector
 + https://www.youtube.com/watch?v=I5EUjVbLaNY&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=5
