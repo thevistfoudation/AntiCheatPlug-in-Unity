@@ -1,8 +1,8 @@
 # AntiCheatPlug-in-Unity
 AntiCheatPlug-in
-!!! Chú ý:
-+ Vào nhánh main nếu bạn là người thích mầy mò và sáng tạo.
-+ Vào nhánh Develop nếu bạn là người thích ăn sẵn lấy về và sử dụng.
+# !!! Chú ý:
++ Vào nhánh main nếu bạn là người thích mầy mò và sáng tạo để lấy Package gốc về.
++ Vào nhánh Develop nếu bạn là người thích ăn sẵn lấy về và sử dụng bản đã được Custom lại của JinLab.
 
 ## Mục Lục
 - [I.Cách Setup Plugin vào project](#What)
