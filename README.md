@@ -97,4 +97,4 @@ AntiCheatPlug-in
 
 <a name="When"></a>
 ## III.Tổng Kết
-+ Nếu bạn gặp vấn đề trong bảo mật thì mình tin đây có thể là 1 giải pháp bạn đang cần với game của bạn
++ Nếu bạn gặp vấn đề trong bảo mật thì mình tin đây có thể là 1 giải pháp giúp bạn phát hiện và ngăn chặn các Cheater can thiệp vào luồng dữ liệu làm thay đổi các thông số gốc trong Game của bạn.
