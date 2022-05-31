@@ -78,8 +78,12 @@ AntiCheatPlug-in
 ### SpeedHackDetector
 + https://www.youtube.com/watch?v=I5EUjVbLaNY&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=5
 + Nôm na là cách Cheat mà tất cả chúng ta khi chơi game đều có thể làm được là cheat tốc độ của nhân vật ví dụ: tốc độ đánh , tốc độ di chuyển , tốc độ.
-+ Và Plugin này ra đời cũng để ngăn chặn điều đó hạn chế User có thể can thiệp vào luồng dữ liệu(tốc độ) trong game.
-+ 
++ Và Plugin này ra đời cũng để ngăn chặn điều đó giúp chặn User có thể can thiệp vào luồng dữ liệu(tốc độ) trong game.
++ ![image](https://user-images.githubusercontent.com/47918431/171190058-75525975-24d3-497f-b9b9-5c9c4db0350d.png)
+  + `Interval`:
+  + `Threshold`:
+  + `Max False Positives`:
+  + `Cool Down`:
 <a name="WallHackDetector"></a>
 ### WallHackDetector
 + https://www.youtube.com/watch?v=xSZkQv7TAgU&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=6
