@@ -97,6 +97,5 @@ AntiCheatPlug-in
 
 <a name="When"></a>
 ## III.Tổng Kết
-> !!! Chú ý:
-+ Vào nhánh main nếu bạn là người thích mầy mò và sáng tạo để lấy Package gốc về.
-+ Vào nhánh Develop nếu bạn là người thích ăn sẵn chỉ lấy về và sử dụng bản đã được Custom lại của JinLab.
++ Nếu bạn gặp vấn đề trong bảo mật thì mình tin đây có thể là 1 giải pháp bạn đang cần với game của bạn
++ Mọi phản hồi xin gửi về `jinkaido1011@gmail.com`
