@@ -98,4 +98,3 @@ AntiCheatPlug-in
 <a name="When"></a>
 ## III.Tổng Kết
 + Nếu bạn gặp vấn đề trong bảo mật thì mình tin đây có thể là 1 giải pháp bạn đang cần với game của bạn
-+ Mọi phản hồi xin gửi về `jinkaido1011@gmail.com`
