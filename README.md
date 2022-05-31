@@ -81,9 +81,11 @@ AntiCheatPlug-in
 + Và Plugin này ra đời cũng để phát hiện và chặn User có thể can thiệp vào luồng dữ liệu(tốc độ) trong game.
 + ![image](https://user-images.githubusercontent.com/47918431/171194223-c48bf7d6-de2c-4122-ac4a-605586449a7b.png)
   + `Interval`: là khoảng thời gian tính bằng giây(nên để 1 giây để tiết kiệm hiệu năng)
-  + `Threshold`: 
-  + `Max False Positives`:
-  + `Cool Down`:
+  + `Threshold`: là hệ số tốc độ tối đa và tối thiểu trong Game cho phép với `Min là 0.2` và `Max là 5`
+  + `Max False Positives`: Là độ sai số tối đa được cho phép trong Game(lỗi đồng hồ hoặc BUG T_T). Ví dụ khi xảy ra vấn đề thì tính năng này giúp bỏ qua kết quả sai đó và không coi đó là 1 hành động Hack. Ví dụ thời gian sẽ scale trong khoảng từ 1 -5 giây thì có thể bộ hack sẽ quét được và coi như đó là 1 trường hợp hack còn khi tích hợp và chỉnh độ sai số thì bộ quét sẽ bỏ qua và check tiếp các case khác.
+  + `Cool Down`: Cho phép đặt lại bộ đếm dưới luồng code để phòng trường hợp(xảy ra 1 số bug hoạt động sai đếm liên tục dẫn đến bộ đếm sai giá trị và Tool sẽ quét và phát hiện hack tốc độ sai) thì lập tức set giá trị về 0 và tắt tính năng cooldown đi
+  + ![image](https://user-images.githubusercontent.com/47918431/171207010-e3a302c0-bf50-4c82-a13f-eac6d1683ddc.png)
+
 <a name="WallHackDetector"></a>
 ### WallHackDetector
 + https://www.youtube.com/watch?v=xSZkQv7TAgU&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=6
