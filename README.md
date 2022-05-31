@@ -19,8 +19,7 @@ AntiCheatPlug-in
 - [`Prefs` Obscured Prefs ](#ObscuredPrefs)
 - [`FileandPrefs` Obscured File &&  Obscured Prefs ](#ObscuredFile)
 - [`SpeedHackDetector` SpeedHackDetector](#SpeedHack)
-- [`WallHackDetector` WallHackDetector ](#WallHackDetector)
-- [`InjectionDetector` InjectionDetector](#InjectionDetector)
+
 <a name="Obscuredtypes"></a>
 ### Obscured types
 + https://www.youtube.com/watch?v=QiznofE8xD4&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=2
@@ -87,13 +86,6 @@ AntiCheatPlug-in
   + `Max False Positives`: Là độ sai số tối đa được cho phép trong Game(lỗi đồng hồ hoặc BUG T_T). Ví dụ khi xảy ra vấn đề thì tính năng này giúp bỏ qua kết quả sai đó và không coi đó là 1 hành động Hack. Ví dụ thời gian sẽ scale trong khoảng từ 1 -5 giây thì có thể bộ hack sẽ quét được và coi như đó là 1 trường hợp hack còn khi tích hợp và chỉnh độ sai số thì bộ quét sẽ bỏ qua và check tiếp các case khác.
   + `Cool Down`: Cho phép đặt lại bộ đếm dưới luồng code để phòng trường hợp(xảy ra 1 số bug hoạt động sai đếm liên tục dẫn đến bộ đếm sai giá trị và Tool sẽ quét và phát hiện hack tốc độ sai) thì lập tức set giá trị về 0 và tắt tính năng cooldown đi
   + ![image](https://user-images.githubusercontent.com/47918431/171207010-e3a302c0-bf50-4c82-a13f-eac6d1683ddc.png)
-
-<a name="WallHackDetector"></a>
-### WallHackDetector
-+ https://www.youtube.com/watch?v=xSZkQv7TAgU&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=6
-<a name="InjectionDetector"></a>
-### InjectionDetector
-+ https://www.youtube.com/watch?v=xrJbzvG7WJo&list=PLbTYvIYxIXSj5p9qn3lcsoUc1R9KnSOIb&index=7
 
 <a name="When"></a>
 ## III.Tổng Kết
