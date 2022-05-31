@@ -1,5 +1,9 @@
 # AntiCheatPlug-in-Unity
 AntiCheatPlug-in
+!!! Chú ý:
++ Vào nhánh main nếu bạn là người thích mầy mò và sáng tạo.
++ Vào nhánh Develop nếu bạn là người thích ăn sẵn lấy về và sử dụng.
+
 ## Mục Lục
 - [I.Cách Setup Plugin vào project](#What)
 - [II.Cách sử dụng Plugin?](#How)
